@@ -18,14 +18,14 @@ In this repository, I have automated a simple api automation steps for login and
 - IntelliJ IDEA
 - Selenium
 - Rest Assured
-- Junit
+- Junit Framework
 - Allure
-- Gradle Build Sytem
+- Gradle Build System
 
-## Work Scenerio
+## Work Scenario
 - Do login using username and password
-- Store the token in config.properties file
-- Get an user info using Get Method
+- Store the token in the config.properties file
+- Get a user info using Get Method
 
 # Allure report Screenshots
 <img width="565" alt="image" src="https://github.com/foysal619/DMoney-Rest-Assured-Basic-API-Automation-using-Selenium-Junit/assets/61048879/30b7f72e-8b3c-4230-a0cd-3311dbf7d58a">
